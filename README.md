@@ -1,4 +1,4 @@
-# vue-ext
+# vue-2-ext
 
 Vue 2 based chrome extension dev setup
 
