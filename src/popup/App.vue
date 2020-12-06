@@ -1,5 +1,8 @@
 <template>
-  <hello-world />
+  <div>
+    <p>popup:</p>
+    <hello-world />
+  </div>
 </template>
 
 <script lang="ts">
