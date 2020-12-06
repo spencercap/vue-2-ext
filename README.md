@@ -1,5 +1,7 @@
 # vue-ext
 
+Vue 2 based chrome extension dev setup
+
 ## Project setup
 ```
 npm install
