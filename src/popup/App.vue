@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>popup:</p>
+    <img alt="Vue logo" src="../assets/logo.png">
     <hello-world />
   </div>
 </template>

@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>standalone:</p>
+    <img alt="Vue logo" src="../assets/logo.png">
     <hello-world />
   </div>
 </template>
